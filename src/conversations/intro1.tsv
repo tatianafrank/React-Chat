@@ -1,0 +1,10 @@
+text
+This is the second module in the series.
+I will guide you through three (3) different modules today.
+It is important that you complete all three modules.
+I am showing a slider at the bottom of the screen.
+The slider is to the right of the words 'Delay (in seconds)'.  
+"To change how fast messages are sent, move the slider with a mouse (or with a finger if you have a touch screen)"
+"The slider is initially set to '5', meaning I send a message every 5 seconds."
+Lower numbers on the slider cause messages to be sent faster. 
+"For example, if you move the slider to '2', I will send a message every 2 seconds."
